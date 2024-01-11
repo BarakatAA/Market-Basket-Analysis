@@ -19,15 +19,3 @@ The project uses the Apriori algorithm for association rule mining, leveraging t
 - *Datasets:* Any relevant datasets used for analysis (if allowed for distribution).
 
 
-## Getting Started
-
-### Prerequisites
-
-Ensure you have Python installed. You can install required dependencies using pip install as required
-
-## Usage
-
-1. Load your transaction data into a pandas DataFrame.
-2. Preprocess the data if necessary.
-3. Apply the Apriori algorithm to discover association rules.
-4. Visualize the results using various plots and charts.
